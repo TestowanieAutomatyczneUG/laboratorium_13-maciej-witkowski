@@ -1,3 +1,5 @@
 coverage
 pytest~=6.1.2
 setuptools~=40.8.0
+behave~=1.2.6
+pathlib~=1.0.1
